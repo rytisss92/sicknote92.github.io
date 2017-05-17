@@ -1,0 +1,109 @@
+/* Custom Css */
+
+/* NAVBAR CSS */
+
+.navbar-inverse{
+    background-color: #fff !important;
+        border-color: #fff !important;
+}
+
+.navbar-brand .infonetica-logo{
+    height: 44px;
+}
+.navbar-brand{
+    padding: 0px;
+}
+
+.infonetica-banner{
+    max-height: 50px;
+    width: 100%;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #080808;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    color: #080808;
+    background-color: #ffffff;
+}
+
+
+/* Content CSS */
+
+.text-title{
+        color: #ff6600;
+        font-size: 18px;
+}
+
+.text-title-end {
+        font-weight: bold;
+}
+
+#logo-row-0{
+    display: block;
+    margin: auto;
+    width: 44%;
+    padding: 10px;
+}
+#logo-row-0 img {
+    height: 100px;
+}
+#logo-row-1{
+    display: block;
+    margin: auto;
+    width: 70%;
+    padding: 10px;
+}
+#logo-row-1 img{
+    float: left;
+    padding: 10px;
+    height: 50px;
+    width: 52px;
+}
+
+.footer-info-container{
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+.footer-info-container .info-box {
+    float: left;
+    padding: 10px;
+}
+
+/* Our services css */
+
+.ourservices-text {
+    margin: auto;
+    width: 60%;
+}
+.ourservices-button {
+    margin: auto;
+    width: 20%;
+    margin-top: 10px;
+}
+
+.no-text-decoration{
+    color: #080808 !important;
+    text-decoration: none !important;
+}
+.no-text-decoration :hover{
+    color: #080808 !important;
+    text-decoration: none !important;
+}
+
+.row-margin-0 {
+    margin-bottom: 10px;
+}
+
+#bookdemo-container{
+    margin: auto;
+    width: 82%;
+    margin-top: 46px;
+}
+
+.margin-auto {
+    margin:auto;
+}
